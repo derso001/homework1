@@ -1,4 +1,4 @@
-from AddressBook import *
+from address_book import *
 from abc import ABC, abstractmethod
 
 class BotABC(ABC):
